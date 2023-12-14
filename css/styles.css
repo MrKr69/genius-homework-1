@@ -1,0 +1,83 @@
+:root {
+  --color-primary-brand: #2b7fff;
+  --color-primary-dark: #011c44;
+  --color-primary-light: #ffffff;
+  --color-secondary-grey: #4a4a4a;
+  --color-secondary-black: #000000;
+}
+
+/* base */
+body {
+  color: var(--color-primary-dark);
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* header-link */
+
+.header-link {
+  color: var(--color-primary-dark);
+}
+
+.header-link:hover {
+  color: var(--color-primary-brand);
+}
+
+/* hero */
+
+.hero-title .accent {
+  color: var(--color-primary-brand);
+}
+
+/* button */
+.button {
+  color: var(--color-primary-light);
+  background-color: var(--color-primary-brand);
+  border: 2px solid var(--color-primary-brand);
+  border-radius: 32px;
+  cursor: pointer;
+}
+
+.button:hover {
+  color: var(--color-primary-dark);
+  background: transparent;
+}
+
+/* info-section */
+
+.info .accent {
+  color: var(--color-primary-brand);
+}
+
+/* why-section */
+
+.why-section .accent {
+  color: var(--color-primary-brand);
+}
+.text-color {
+  color: var(--color-secondary-black);
+}
+
+/* procedures-section */
+
+.procedures .accent {
+  color: var(--color-primary-brand);
+}
+
+/* contacts-ssection */
+
+.contacts .accent {
+  color: var(--color-primary-brand);
+}
+
+/* footer-link */
+
+.footer-link {
+  color: var(--color-primary-light);
+}
+
+.footer-link:hover {
+  color: var(--color-primary-brand);
+}
