@@ -78,8 +78,6 @@ address {
 }
 
 /* hero */
-.hero-item {
-}
 
 .hero-title {
   color: var(--color-primary-brand);
@@ -98,7 +96,7 @@ address {
   border: 2px solid var(--color-primary-brand);
   display: inline-flex;
   padding: 16px 32px;
-  align-texts: flex-start;
+  align-items: flex-start;
   gap: 10px;
   color: var(--color-primary-light);
 
