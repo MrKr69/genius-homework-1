@@ -1,1 +1,1 @@
-# genius-homework-1
+Косметологічна клініка "Beauty Zone"
