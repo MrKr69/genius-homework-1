@@ -94,7 +94,6 @@ address {
   background-color: var(--color-primary-brand);
   border-radius: 32px;
   border: 2px solid var(--color-primary-brand);
-  display: inline-flex;
   padding: 16px 32px;
   gap: 10px;
   color: var(--color-primary-light);
