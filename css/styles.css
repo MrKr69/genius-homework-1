@@ -145,6 +145,8 @@ address {
   font-family: 'Play', sans-serif;
   font-size: 64px;
   font-weight: 700;
+  width: 432px;
+  height: 148px;
 }
 
 .advantages-title .accent {
@@ -182,6 +184,7 @@ address {
   line-height: 1.2;
   text-align: center;
   width: 152px;
+  display: inline-block;
 }
 
 /* contacts-ssection */
