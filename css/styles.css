@@ -95,7 +95,6 @@ address {
   border-radius: 32px;
   border: 2px solid var(--color-primary-brand);
   padding: 16px 32px;
-  gap: 10px;
   color: var(--color-primary-light);
   font-weight: 600;
   font-family: 'Roboto Condensed';
@@ -189,7 +188,6 @@ address {
 .contacts-title {
   width: 432px;
   height: 75px;
-  justify-content: center;
   text-align: center;
   font-family: 'Play';
   font-size: 64px;
